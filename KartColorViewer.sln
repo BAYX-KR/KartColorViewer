@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartColorViewer", "KartColorViewer\KartColorViewer.csproj", "{09A8C870-1597-4697-8B49-273CCA6B8ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09A8C870-1597-4697-8B49-273CCA6B8ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09A8C870-1597-4697-8B49-273CCA6B8ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09A8C870-1597-4697-8B49-273CCA6B8ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09A8C870-1597-4697-8B49-273CCA6B8ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C019FA1-5BA3-4B0F-907F-79EEE9AF110F}
+	EndGlobalSection
+EndGlobal
